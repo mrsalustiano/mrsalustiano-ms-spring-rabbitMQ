@@ -1,0 +1,27 @@
+HELP.md
+cadastro/.gradle
+cadastro/build/
+cadastro/!gradle/wrapper/gradle-wrapper.jar
+cadastro/!**/src/main/**/build/
+cadastro/!**/src/test/**/build/
+
+### STS ###
+cadastro/.apt_generated
+cadastro/.classpath
+cadastro/.factorypath
+cadastro/.project
+cadastro/.settings
+cadastro/.springBeans
+cadastro/.sts4-cache
+cadastro/bin/
+cadastro/!**/src/main/**/bin/
+cadastro/!**/src/test/**/bin/
+
+### IntelliJ IDEA ###
+cadastro/.idea
+cadastro/*.iws
+cadastro/*.iml
+cadastro/*.ipr
+cadastro/out/
+cadastro/!**/src/main/**/out/
+cadastro/!**/src/test/**/out/
